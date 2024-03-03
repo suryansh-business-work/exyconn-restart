@@ -12,7 +12,7 @@ const VideoBanner = () => {
           <div className="col-12">
             <div className="text">
               <h3>Get to know the key <br />digital players <br />behind global change.</h3>
-              <p>We drive business growth by reimagining digital experiences to overcome complex challenges through innovation and agility.</p>
+              <p>We drive business growth by reimagining digital experiences to overcome complex challenges through innovation and agility..</p>
               <a href="#">Expert Consultation</a>
               <br /><a href="#" className="ms-2">AI Powered Cost Calculator</a>
             </div>

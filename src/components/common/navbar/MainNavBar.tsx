@@ -2,11 +2,11 @@ import Image from "next/image";
 import Link from "next/link";
 
 const menuData = [
-  { text: "Services", url: '/' },
-  { text: "Industries", url: '/' },
-  { text: "About Us", url: '/' },
-  { text: "Blog", url: '/' },
-  { text: "Careers", url: '/' }
+  { text: "Services", url: '/services' },
+  { text: "Industries", url: '/industries' },
+  { text: "About Us", url: '/about' },
+  { text: "Blog", url: '/blog' },
+  { text: "Careers", url: '/careers' }
 ]
 
 const MainNavBar = () => {
