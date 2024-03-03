@@ -1,0 +1,33 @@
+.custom-menu {
+  height: 100%;
+  ul {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-self: center;
+    padding: 0;
+    li {
+      a {
+        display: block;
+        text-decoration: none;
+        padding: 5px 10px;
+      }
+    }
+  }
+}
+
+.menu {
+  height: 100%;
+  ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    li {
+      a {
+        display: block;
+        text-decoration: none;
+        padding: 5px 10px;
+      }
+    }
+  }
+}
